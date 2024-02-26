@@ -1,1 +1,3 @@
-# Stats220
+# Hello!
+
+* I am Logan Park
