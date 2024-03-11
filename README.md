@@ -5,15 +5,16 @@ The purpose of this repo is for stats 220, and it is to show my skills and abili
 
 ## Contents
 
-**Order of Contents**
-  1. one
-  2. two
-  3. three
+**This project will use:**
+  1. Github
+  2. R studio
+  3. R
 
-**Part two of Contents**
-  - four
-  - five
-  - six
+**This course consists of:**
+  - Lab and course success quizes (10%)
+  - Projects (30%)
+  - Test (20%)
+  - Final Exam (50%)
  
 
-*For more information, visit the website [view demo here](https://www.stat.auckland.ac.nz/~fergusson/stats220_S124/project1.php).*
+*For more information, visit the website [here](https://github.com/junjunj/Stats220).*
