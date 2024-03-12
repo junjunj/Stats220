@@ -19,4 +19,4 @@ The purpose of this repo is for stats 220, and it is to show my skills and abili
 
 *For more information, visit the website [here](https://github.com/junjunj/Stats220).*
 
-[meow](https://m.media-amazon.com/images/I/51WHgHxF5YL._AC_UF1000,1000_QL80_.jpg)
+![meow](https://m.media-amazon.com/images/I/51WHgHxF5YL._AC_UF1000,1000_QL80_.jpg)
