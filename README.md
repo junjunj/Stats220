@@ -19,4 +19,4 @@ The purpose of this repo is for stats 220, and it is to show my skills and abili
 
 *For more information, visit the website [here](https://github.com/junjunj/Stats220).*
 
-[meow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FSad-Cat-Meme-Notebook-College%2Fdp%2FB0C9SHK6H6&psig=AOvVaw2gGiZE6_HC2L262ZoM6KZB&ust=1710288356851000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi0zOO27YQDFQAAAAAdAAAAABAI)
+[meow](https://m.media-amazon.com/images/I/51WHgHxF5YL._AC_UF1000,1000_QL80_.jpg)
